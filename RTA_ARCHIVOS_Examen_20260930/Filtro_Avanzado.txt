@@ -1,0 +1,4 @@
+Mi IP Publica es: 2802:8010:7119:2900:8c25:9518:107a:1d92
+Mi usuario es: mirko
+El Hash de mi Usuario es: $6$oG/HFC2mGMZ8W2AU$.Oc29CAZvTC8Vx2uMBOkvjCiRCzGk7FGT7YYVsNinclIiUusJqfVKDIOqY077tEh7yTfTUezvd.Gi1CDStdx3.
+La URL de mi repositorio es: https://github.com/mirkoszycho-boop/UTNFRA_SO_1P2C_2024_szychowski.git
