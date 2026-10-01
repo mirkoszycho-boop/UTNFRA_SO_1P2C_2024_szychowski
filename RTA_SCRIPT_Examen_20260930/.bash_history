@@ -314,3 +314,10 @@ git commit -m
 git push
 nano README.md
 history -a
+cp $HOME/.bash_history .
+git add .
+git commit -m "Entrega"
+git push
+chmod +x *.sh
+ls -l
+history -a
